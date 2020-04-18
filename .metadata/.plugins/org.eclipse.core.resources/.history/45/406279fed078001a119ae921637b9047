@@ -1,0 +1,33 @@
+package Dum;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeMap;
+
+public class rough4 {
+	public static int feb(int x) {
+		return 0;
+		
+	}
+	public static void main(String[] args) {
+		int n=5;
+		if(n==0) {
+			System.out.println("length cannot be 0");}
+			else if (n==1)
+				System.out.println("0");
+			else {
+				for(int i=1;i<=n;i++) {
+					feb(i)+feb(i-1);
+				}
+				
+			}
+		}
+		
+	}
+

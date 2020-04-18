@@ -1,0 +1,29 @@
+package Dum;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeMap;
+
+public class rough4 {
+	public static void main(String[] args) {
+		int rows=5;
+		int rowcounter=0,spacecounter=0,starcounter=0;
+		for(rowcounter=0;rowcounter<rows;rowcounter++) {
+			for(spacecounter=0;spacecounter<rows;spacecounter++) {
+				System.out.print(" ");
+			}
+			spacecounter--;
+			for(starcounter=0;starcounter<=rowcounter;starcounter++) {
+				System.out.print("* ");
+			}
+			System.out.println();
+		}
+		
+	}
+}

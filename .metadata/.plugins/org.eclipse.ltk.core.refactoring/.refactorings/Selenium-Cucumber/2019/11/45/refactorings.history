@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;stepDefinition&apos; to &apos;CucumberFramework/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;Selenium-Cucumber&apos;&#x0D;&#x0A;- Destination element: &apos;CucumberFramework/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;Selenium-Cucumber/src/main/java/stepDefinition&apos;" description="Copy package" destination="=CucumberFramework/src\/test\/java" element1="/src\/main\/java&lt;stepDefinition" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1573026582104" version="1.0"/>
+</session>

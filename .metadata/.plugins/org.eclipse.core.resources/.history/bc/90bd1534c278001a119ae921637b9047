@@ -1,0 +1,29 @@
+package Dum;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeMap;
+
+public class rough4 {
+	public static void main(String[] args) {
+		String s = "I am in interview";
+		char[] c = s.toCharArray();
+		HashMap<Character, Integer> hmap = new HashMap<Character, Integer>();
+		for (Character ch : c) {
+			if (hmap.get(ch) == null) {
+				hmap.put(ch, 1);
+			}
+			else
+				hmap.put(ch, hmap.get(ch)+1);
+		}
+		for (Map.Entry<Character, Integer> mp : hmap.entrySet()) {
+			System.out.println(mp.getKey()+" "+mp.getValue());
+		}
+	}
+}

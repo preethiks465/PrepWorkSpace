@@ -1,0 +1,197 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Verifying whether user is able to login to crm",
+        "description": "",
+        "id": "to-test-crm-login-page;verifying-whether-user-is-able-to-login-to-crm",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 3,
+            "name": "user navigates to gmail login page",
+            "match": {
+              "location": "loginStepDefinition.user_navigates_to_gmail_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user gives Credentials to login",
+            "match": {
+              "location": "loginStepDefinition.user_gives_Credentials_to_login(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Username",
+                  "Password"
+                ],
+                "line": 5
+              },
+              {
+                "cells": [
+                  "preethik",
+                  "Liveall@456"
+                ],
+                "line": 6
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user lands on home page",
+            "match": {
+              "location": "loginStepDefinition.user_lands_on_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test CRM login Page",
+    "description": "",
+    "id": "to-test-crm-login-page",
+    "keyword": "Feature",
+    "uri": "abc.feature"
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Verifying whether user is able to login to crm",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user navigates to gmail login page",
+            "match": {
+              "location": "loginStepDefinition.user_navigates_to_gmail_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user dummy",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user gives Credentials to login",
+            "match": {
+              "location": "loginStepDefinition.user_gives_Credentials_to_login(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Username",
+                  "Password"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "preethik",
+                  "Liveall@456"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user lands on home page",
+            "match": {
+              "location": "loginStepDefinition.user_lands_on_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "abc",
+        "description": "",
+        "id": "to-test-crm-login-page;abc",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "ffff",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "aafsd",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "afdsfd",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@smke"
+          }
+        ]
+      }
+    ],
+    "name": "To Test CRM login Page",
+    "description": "",
+    "id": "to-test-crm-login-page",
+    "keyword": "Feature",
+    "uri": "login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag1"
+      }
+    ]
+  }
+]

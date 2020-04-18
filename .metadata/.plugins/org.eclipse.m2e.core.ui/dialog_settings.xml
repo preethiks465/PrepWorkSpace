@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\PreethikrishnaSankur\PREP\JAVA_PROGRAMS\src\test\java\Dum\hmaps.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\RestAssuredBDDFramework\src\test\java\com\qa\rest\test\GetcallBDD.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\XpathTutorials\pom.xml"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\REVISION"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\restapi\src\main\java\com\qa\base\TestBase.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\XpathTutorials"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\SeleniumMakeEasy\src\main\java\JavaPrograms\Prgm34_3.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\SeleIntQA\src\test\java\CustomExpectedConditions\BaseClass.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\DeleteContact\src\test\java\DeleteContact.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\DynamicGoogleSearch\src\test\java\DeleteContact.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\JavaInts\src\test\java\kk\findduplicate_arr_set.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\JavaInts\src\test\java\JavaIntQA\ConstrucChain.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\restapi\src\test\java\com\qa\test\PostApiTest.java"/>
+			<item value="C:\Users\PreethikrishnaSankur\PREP\restapiRev"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="CucumberExecute.CucumberExecute"/>
+			<item value="ReviseCucumber.ReviseCucumber"/>
+			<item value="RestBDD.RestBDD"/>
+			<item value="TestNGTutorials.TestNGTutorials"/>
+			<item value="GRID.GRID"/>
+			<item value="REVISION2.REVISION2"/>
+			<item value="REVISION.REVISION"/>
+			<item value="JAVA_PROGRAMS.JAVA_PROGRAMS"/>
+			<item value="OOP_POM.OOP_POM"/>
+			<item value="AutoLabsTutorials.AutoLabsTutorials"/>
+		</list>
+		<list key="groupId">
+			<item value="CucumberExecute"/>
+			<item value="ReviseCucumber"/>
+			<item value="RestBDD"/>
+			<item value="TestNGTutorials"/>
+			<item value="GRID"/>
+			<item value="REVISION2"/>
+			<item value="REVISION"/>
+			<item value="JAVA_PROGRAMS"/>
+			<item value="OOP_POM"/>
+			<item value="AutoLabsTutorials"/>
+		</list>
+		<list key="artifactId">
+			<item value="CucumberExecute"/>
+			<item value="ReviseCucumber"/>
+			<item value="RestBDD"/>
+			<item value="TestNGTutorials"/>
+			<item value="GRID"/>
+			<item value="REVISION2"/>
+			<item value="REVISION"/>
+			<item value="JAVA_PROGRAMS"/>
+			<item value="OOP_POM"/>
+			<item value="AutoLabsTutorials"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\PERSONAL\PREP\CUCUMBER\Cucumber-TestNG\Cucumber-TestNG"/>
+			<item value="C:\Users\PreethikrishnaSankur\Downloads\Selenium-Cucumber"/>
+			<item value="C:\Users\PreethikrishnaSankur\Downloads\CucumberFramework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

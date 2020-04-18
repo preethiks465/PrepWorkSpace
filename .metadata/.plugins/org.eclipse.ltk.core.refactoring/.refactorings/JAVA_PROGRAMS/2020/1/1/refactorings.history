@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;MakeSeleniumEasy&apos; to &apos;JAVA_PROGRAMS/src/test/java/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;JAVA_PROGRAMS&apos;&#x0D;&#x0A;- Destination element: &apos;JAVA_PROGRAMS/src/test/java/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;JAVA_PROGRAMS/src/main/java/MakeSeleniumEasy&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/test\/java&lt;" element1="/src\/main\/java&lt;MakeSeleniumEasy" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1577968183367" version="1.0"/>
+</session>

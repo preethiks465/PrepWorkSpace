@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="2" time="0">
+    <testcase classname="To Test CRM login Page" name="Verifying whether user is able to login to crm" time="0">
+        <system-out>
+            <![CDATA[Given user navigates to gmail login page....................................skipped
+When user gives Credentials to login........................................skipped
+Then user lands on home page................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To Test CRM login Page" name="abc" time="0">
+        <skipped>
+            <![CDATA[Given user navigates to gmail login page....................................skipped
+Given user dummy............................................................undefined
+When user gives Credentials to login........................................skipped
+Then user lands on home page................................................skipped
+Given ffff..................................................................undefined
+When aafsd..................................................................undefined
+Then afdsfd.................................................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>

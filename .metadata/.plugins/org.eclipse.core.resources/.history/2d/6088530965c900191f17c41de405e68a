@@ -1,0 +1,13 @@
+package JavaIntQA;
+
+public class ObjCreation {
+
+	public static void main(String[] args)
+			throws ClassNotFoundException, InstantiationException, IllegalAccessException {
+		Student stu =(Student) Class.forName("JavaIntQA.Student").newInstance();
+		Student s1=Student.class.newInstance();
+		System.out.println(s1);
+
+	}
+
+}
